@@ -2,7 +2,7 @@
 
 # 🎮 dota-sight
 
-[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/john-sonhq2004g6/dota-sight?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/john-sonhq2004g6/dota-sight?style=flat-square)
+[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/john-sonhq2004g6/dota-sight?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/john-sonhq2004g6/dota-sight?style=flat-square)
 
 Dota 2 assistant: hotkeys, overlays, & performance stats
 
